@@ -7,5 +7,3 @@ We moved the other lines down a bit and now we are here. Yay!
 Let's add a line in here just for fun
 
 This is a file that was created in the GitHub editor
-
-New line
